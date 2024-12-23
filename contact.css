@@ -1,0 +1,31 @@
+body{
+    background: url("images\ \(4\).jpeg");
+}
+h1{
+    color: aliceblue;
+    margin: 20px;
+    text-align: center;
+}
+.xss input{
+    width: 70%;
+}
+.tex{
+    color: aliceblue;
+    
+}
+#exampleFormControlTextarea1{
+    width: 70%;
+    height: 170px;
+}
+#lab{
+    margin-right: 33px;
+}
+.con{
+    text-align: center;
+}
+#but{
+    margin-left: 50%;
+    padding: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}

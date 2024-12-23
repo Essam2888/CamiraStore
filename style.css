@@ -1,0 +1,32 @@
+body{
+    background: url("images.png");
+}
+h1{
+    text-align: center;
+}
+
+.xss input{
+    width: 70%;
+    color: blue;
+}
+label{
+    margin-left: 10px;
+}
+.zcc{
+    margin-right: 33px;
+}
+.vcc{
+    margin-right: 5px;
+}
+.ass{
+   
+    margin: 10px;
+}
+.aa{
+    margin: 29%;
+}
+.bt{
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
